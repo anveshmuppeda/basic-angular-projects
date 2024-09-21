@@ -1,2 +1,2 @@
-# npm-projects
+# Angular Projects
 NPM Project
