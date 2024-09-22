@@ -40,7 +40,8 @@ lts/iron -> v20.17.0 (-> N/A)
 nvm alias default v18.20.4
 default -> v18.20.4
 ```  
-Install Angular  
+
+## Install Angular   
 ```console
 npm install -g @angular/cli
 ```
@@ -66,32 +67,13 @@ ng new hello-world
 ng serve
 ```  
 
-
 ## To add the new component
 ```console
 ng generate component home
 ```  
 
 
-## 
-```console
+## References:  
+1. https://v17.angular.io/guide/versions    
+2. https://v17.angular.io/guide/releases  
 
-```  
-
-
-## 
-```console
-
-```  
-
-
-## 
-```console
-
-```  
-
-
-## 
-```console
-
-```  

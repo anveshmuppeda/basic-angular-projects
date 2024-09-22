@@ -1,3 +1,5 @@
 1. Angular Version  
 2. Supported Node Version  
-Ref: https://v17.angular.io/guide/versions  
+Ref: 
+1. https://v17.angular.io/guide/versions  
+2. https://v17.angular.io/guide/releases
